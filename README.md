@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Schon Huxley
+#I'm Schon Huxley
 
 🎓 **Software Engineering @ Iowa State University**  
 💡 Passionate about system reliability, automation, and machine learning engineering.
